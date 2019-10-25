@@ -29,9 +29,8 @@
 ## 0.下载解压脚本(node01执行)
 
 ```
-curl -O http://kaifa.hc-yun.com:30050/mango/mango-auto-install/-/archive/master/mango-auto-install-master.tar.gz
-tar xvf mango-auto-install-master.tar.gz
-cd mango-auto-install-master
+git clone https://github.com/bigdatasafe/mg-auto-install.git
+cd mg-auto-install
 ```
 
 
